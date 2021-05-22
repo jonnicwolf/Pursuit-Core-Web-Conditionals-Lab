@@ -28,7 +28,6 @@ function isPrimaryColorOneIf(color) {
   } else {
     return false
   }
-  
 }
 
 /**
